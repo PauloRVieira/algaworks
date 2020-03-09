@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.algaworks.comercial.repository&apos; to &apos;comercial-api/src/main/java&apos;&#x0A;- Original project: &apos;comercial-api&apos;&#x0A;- Destination element: &apos;comercial-api/src/main/java&apos;&#x0A;- Original element: &apos;comercial-api/src/test/java/com.algaworks.comercial.repository&apos;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;com.algaworks.comercial.repository" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1580315824099" version="1.0"/>
+</session>
